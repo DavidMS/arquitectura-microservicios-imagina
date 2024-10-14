@@ -11,3 +11,6 @@ scrape_configs:
         target_label: job
       - source_labels: [__meta_eureka_instance_hostname]
         target_label: instance
+
+rule_files:
+  - "alert.rules.yml"
