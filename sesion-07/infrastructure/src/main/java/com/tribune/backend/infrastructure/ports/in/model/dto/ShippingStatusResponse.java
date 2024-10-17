@@ -1,13 +1,10 @@
-package com.tribune.backend.domain.dto;
+package com.tribune.backend.infrastructure.ports.in.model.dto;
 
 
 import com.tribune.backend.domain.context.element.common.address.Address;
-import com.tribune.backend.domain.context.element.order.Order;
 import com.tribune.backend.domain.context.element.shipping.ShippingStatus;
 import lombok.Builder;
 import lombok.Data;
-
-import java.util.UUID;
 
 @Data
 @Builder

@@ -1,8 +1,9 @@
-package com.tribune.backend.infrastructure.persistance.repository;
+package com.tribune.backend.infrastructure.adapters;
 
 import com.tribune.backend.domain.context.element.order.Order;
 import com.tribune.backend.domain.repository.OrderRepository;
 import com.tribune.backend.infrastructure.mappers.OrderMapper;
+import com.tribune.backend.infrastructure.ports.out.persistance.repository.JpaOrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

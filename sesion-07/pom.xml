@@ -8,7 +8,6 @@
         <module>domain</module>
         <module>infrastructure</module>
         <module>application</module>
-        <module>api-definition</module>
     </modules>
 
     <groupId>com.tribune</groupId>

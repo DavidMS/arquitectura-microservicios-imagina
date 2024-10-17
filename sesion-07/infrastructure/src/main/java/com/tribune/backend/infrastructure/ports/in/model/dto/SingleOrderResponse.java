@@ -1,4 +1,4 @@
-package com.tribune.backend.domain.dto;
+package com.tribune.backend.infrastructure.ports.in.model.dto;
 
 
 import com.tribune.backend.domain.context.element.order.Order;

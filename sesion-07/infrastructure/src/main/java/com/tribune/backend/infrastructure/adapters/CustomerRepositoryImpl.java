@@ -1,8 +1,9 @@
-package com.tribune.backend.infrastructure.persistance.repository;
+package com.tribune.backend.infrastructure.adapters;
 
 import com.tribune.backend.domain.context.element.customer.Customer;
 import com.tribune.backend.domain.repository.CustomerRepository;
 import com.tribune.backend.infrastructure.mappers.CustomerMapper;
+import com.tribune.backend.infrastructure.ports.out.persistance.repository.JpaCustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

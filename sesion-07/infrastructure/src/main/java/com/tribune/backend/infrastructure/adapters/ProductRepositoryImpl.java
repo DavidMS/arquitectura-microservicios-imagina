@@ -1,9 +1,10 @@
-package com.tribune.backend.infrastructure.persistance.repository;
+package com.tribune.backend.infrastructure.adapters;
 
 
 import com.tribune.backend.domain.context.element.order.lineitem.product.Product;
 import com.tribune.backend.domain.repository.ProductRepository;
 import com.tribune.backend.infrastructure.mappers.ProductMapper;
+import com.tribune.backend.infrastructure.ports.out.persistance.repository.JpaProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;

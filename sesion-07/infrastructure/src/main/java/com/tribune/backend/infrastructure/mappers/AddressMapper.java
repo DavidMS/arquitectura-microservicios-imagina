@@ -2,7 +2,7 @@ package com.tribune.backend.infrastructure.mappers;
 
 
 import com.tribune.backend.domain.context.element.common.address.Address;
-import com.tribune.backend.infrastructure.persistance.entities.AddressEntity;
+import com.tribune.backend.infrastructure.ports.out.persistance.entities.AddressEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
