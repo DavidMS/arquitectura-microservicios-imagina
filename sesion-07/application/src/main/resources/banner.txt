@@ -1,8 +1,0 @@
-${AnsiColor.198}${AnsiBackground.255}
-${AnsiColor.198}${AnsiBackground.255}                          ████████████  ████████  ██████  ███████  ██     ██  ██      ██  ████████
-${AnsiColor.198}${AnsiBackground.255}                               ██       ██    ██    ██    ██   ██  ██     ██  ████    ██  ███
-${AnsiColor.198}${AnsiBackground.255}                               ██       ██ ███      ██    █████    ██     ██  ██  ██  ██  ████████
-${AnsiColor.198}${AnsiBackground.255}                               ██       ██    ██    ██    ██   ██  ██     ██  ██    ████  ███
-${AnsiColor.198}${AnsiBackground.255}                               ██       ██    ██  ██████  ███████     ████    ██      ██  ████████
-${AnsiColor.198}${AnsiBackground.255}
-${AnsiBackground.DEFAULT}
